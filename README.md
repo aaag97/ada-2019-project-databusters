@@ -1,13 +1,19 @@
 # How to survive eating out in Chicago
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+Chicago is home to 16,000 food establishments like restaurants, grocery stores, bakeries, hospitals, day care facilities, shelters, schools and more. 
+All food establishments are subject to recurring inspections by The Food Protection Division of the Chicago Department of Public Health.
+Our goal for this project is to promote public health in areas of food safety and sanitation and prevent food-borne illness by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we create from the information from inspections of food establishments in Chicago from January 1, 2010 to the present. 
+We will also try to link high/low risk areas of contracting food-borne illnesses with the socioeconomic indicators of the different community areas of the city of Chicago, our end goal being to use “Data science for social good”.
 
 # Research questions
 A list of research questions you would like to address during the project. 
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+
+- https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF
+- Note about 7/1/2018 change to food inspection procedures that affects the data in this dataset: http://bit.ly/2yWd2JB
 
 # A list of internal milestones up until project milestone 2
 1. Clean primary dataset 
