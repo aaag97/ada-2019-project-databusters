@@ -1,23 +1,31 @@
 # How to survive eating out in Chicago
 
-# Abstract
+## Abstract
 Chicago is home to 16,000 food establishments like restaurants, grocery stores, bakeries, hospitals, day care facilities, shelters, schools and more, all of which are subject to recurring inspections by The Food Protection Division of the Chicago Department of Public Health.
 
-Our goal for this project is to promote public health in areas of food safety and sanitation and prevent food-borne illness by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we will compute using the informations from inspections of food establishments in Chicago.
+Our goal for this project is to promote public health in areas of food safety and sanitation and prevent food-borne illness by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we will compute using the information from inspections of food establishments in Chicago.
 
 We will also try to link high/ low risk areas of contracting food-borne illnesses with the socioeconomic indicators of the different community areas of the city of Chicago to see if there are any patterns, our  end goal being to showcase an example of the use of "data science for social good”.
 
-# Research questions
-A list of research questions you would like to address during the project. 
+## Research questions
+* Can we construct high-risk clusters with regard to food safety on the Chicago map ? Could socioeconomic factors influence these clusters ? 
 
-# Dataset
+* (CHECK SOURCES) Does the number of failed inspections correlate with food-poisoning cases on 2018, which has been a record year for food-borne illnesses ? 
+*  What are the most common causes to inspection failures ? Can the cuisine influence the inspection outcome  ? 
+* Which establishment types are the safest to eat at ? Are food chains riskier than local facilities ?
+* Could there be a relation between the popularity of an establishment and the safety of its services ? Can we infer the safety of an establishment from the reviews of its customers ?
+* How does the performance of establishments evolve through time as a function of its inspections results ? Is there an influence on the future performances of the establishment ?
+* Is it more likely for an inspection to fail after a customer complaint has been filed against the establishment ? Is an inspection caused by a customer complaint more likely to fail as opposed to a regular inspection ?
+* Can we predict how likely is an establishment to fail an inspection ?
+
+## Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 (Je mets juste ces sources qui peuvent etre interessantes)
 - https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF
 - Note about 7/1/2018 change to food inspection procedures that affects the data in this dataset: http://bit.ly/2yWd2JB
 
-# A list of internal milestones up until project milestone 2
+## A list of internal milestones up until project milestone 2
 1. Clean primary dataset 
  
     * Explore features
@@ -57,7 +65,7 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
     * Test and finalize data story
 
 
-# Questions for TAa
+## Questions for TAs
 * How flexible is the project? Would it be possible to change the research questions later on if we find more interesting questions or if we encounter a dead end when trying to answer one of the questions?
 * Will we have TA support when it comes to constructing the data story (e.g. front end etc)?
 * Is there any resource for datasets or API you could recommend for the following? We have found some datasets for them but were wondering if you would like to suggest something better/more reliable.
