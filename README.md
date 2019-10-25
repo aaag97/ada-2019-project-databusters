@@ -1,12 +1,11 @@
 # How to survive eating out in Chicago
 
 # Abstract
-Chicago is home to 16,000 food establishments like restaurants, grocery stores, bakeries, hospitals, day care facilities, shelters, schools and more.
-All of which are subject to recurring inspections by The Food Protection Division of the Chicago Department of Public Health.
+Chicago is home to 16,000 food establishments like restaurants, grocery stores, bakeries, hospitals, day care facilities, shelters, schools and more, all of which are subject to recurring inspections by The Food Protection Division of the Chicago Department of Public Health.
 
 Our goal for this project is to promote public health in areas of food safety and sanitation and prevent food-borne illness by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we will compute using the informations from inspections of food establishments in Chicago.
 
-We will also try to link high/ low risk areas of contracting food-borne illnesses with the socioeconomic indicators of the different community areas of the city of Chicago to see if there are any patterns, our end goal being to use “Data science for social good”.
+We will also try to link high/ low risk areas of contracting food-borne illnesses with the socioeconomic indicators of the different community areas of the city of Chicago to see if there are any patterns, our  end goal being to showcase an example of the use of "data science for social good”.
 
 # Research questions
 A list of research questions you would like to address during the project. 
