@@ -1,0 +1,33 @@
+- Data cleaning(
+	-> drop columns: city always chicago, state always IL, location is just repetition of latitude and longitude, three last columns are empty)
+	-> drop duplicates (The dataset source explicitly says there are)
+	-> check for outliers
+
+
+- Data exploration
+	-> most common violations, 
+	-> number of violations by establishment type, 
+	-> number of violations by period of year, 
+	-> number of violations by day of week, 
+	-> restaurants on a map, 
+	-> concentration index to see where they are mostly located (places to eat out), 
+	-> higher risk areas to eat scaled by concentration (heat map), 
+	-> introduce new dataset socio-economic, 
+	-> show poorer regions, do they correspond to high risk regions ?
+
+
+- Machine learning part: compute « risk of food-borne illness » index of restaurants, features can be:
+        -> region where the restaurant is located (if proven correlated)
+        -> past dangerous violations of the restaurant reported by inspectors (for example violation 16. FOOD-CONTACT SURFACES is important with regards to sickness)
+        -> proportion of passed inspections by total inspections
+        -> Number of complaints
+
+- Introduce Yelp dataset:
+        -> Sentiment analysis to extract comments where sickness is mentioned and see most dangerous restaurants according to that metric, do they correspond to high risk restaurants we found in our ML model?
+        -> Cluster restaurants by cuisine, do some types of cuisine have more risk than others?
+        -> Cluster restaurants by price, do cheaper restaurants have more risk than others?
+        -> Can you think of any other metric?
+        -> Depending on the new features we found, we can improve our ML model
+
+
+- Interesting resource that explains Food Inspections in Chicago : https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF
