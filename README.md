@@ -9,11 +9,11 @@ We will also try to link high/ low risk areas of contracting food-borne illnesse
 
 ## Research questions
 
-- **Does the cuisine influence the inspection outcome?** There are different types of establishment are placed in the city of Chicago like elsewhere in the world. Is their unique cuisine affecting their sanitary check/inspection result? Are their failures resulted from the same causes or not?  Would food chains be more riskier than local facilities to eat at?
-
 - **Is the food safety of an establishment related to its popularity?** With an increasing effect of social media, customers are very keen to comment on their experiences at those establishments. Would it be true to infer that the safety of those places from the customers’ reviews? That question would lead us also to investigate whether an inspection failure occurs after a negative review given to an establishment or an inspection resulted by a customer complaint more causes a failure over a regular inspection?
 
-- **How does the performance of establishments evolve through time as a function of its inspections results?** Facilities are subject to inspection on a regular based in terms of satisfying some health and sanitary criteria which they have to satisfy before the inspection, actually all the time. As many other triggers, socioeconomic factors might also let a facility fail on its inspection. In that sense, we will examine the highly risky facilities by regarding food safety on the map of Chicago and analyse its relation with those factors if exists.
+- **Does the cuisine influence the inspection outcome?** There are different types of establishments that are placed in the city of Chicago like elsewhere in the world. Is their unique cuisine affecting their sanitary check/inspection result? Are their failures resulted from the same causes or not?  Would food chains be more riskier than local facilities to eat at?
+
+- **How does the performance of establishments evolve through time as a function of its inspections results?** Facilities are subject to inspection on a regular basis in terms of satisfying some health and sanitary criteria which they have to satisfy before the inspection, actually all the time. As many other triggers, socioeconomic factors might also be a factor of failure on an inspection. In that sense, we will examine the highly risky facilities by regarding food safety on the map of Chicago and analyse its relation with those factors if exists.
 
 ## Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
@@ -63,9 +63,7 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
 
 ## Questions for TAs
-* How flexible is the project? Would it be possible to change the research questions later on if we find more interesting questions or if we encounter a dead end when trying to answer one of the questions?
-* Will we have TA support when it comes to constructing the data story (e.g. front end etc)?
+* Will we have TA support when it comes to constructing the data story (e.g. front-end etc)?
 * Is there any resource for datasets or API you could recommend for the following? We have found some datasets for them but were wondering if you would like to suggest something better/more reliable.
     * Healthcare data (in particular food poisoning data in the USA)
-    * Popularity of restaurants in the USA
-    * Cost of restaurants in the USA
+    * Popularity and cost of restaurants in Chicago (more generally in the USA)
