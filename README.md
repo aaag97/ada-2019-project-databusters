@@ -8,15 +8,12 @@ Our goal for this project is to promote public health in areas of food safety an
 We will also try to link high/ low risk areas of contracting food-borne illnesses with the socioeconomic indicators of the different community areas of the city of Chicago to see if there are any patterns, our  end goal being to showcase an example of the use of "data science for social good”.
 
 ## Research questions
-* Can we construct high-risk clusters with regard to food safety on the Chicago map ? Could socioeconomic factors influence these clusters ? 
 
-* (CHECK SOURCES) Does the number of failed inspections correlate with food-poisoning cases on 2018, which has been a record year for food-borne illnesses ? 
-*  What are the most common causes to inspection failures ? Can the cuisine influence the inspection outcome  ? 
-* Which establishment types are the safest to eat at ? Are food chains riskier than local facilities ?
-* Could there be a relation between the popularity of an establishment and the safety of its services ? Can we infer the safety of an establishment from the reviews of its customers ?
-* How does the performance of establishments evolve through time as a function of its inspections results ? Is there an influence on the future performances of the establishment ?
-* Is it more likely for an inspection to fail after a customer complaint has been filed against the establishment ? Is an inspection caused by a customer complaint more likely to fail as opposed to a regular inspection ?
-* Can we predict how likely is an establishment to fail an inspection ?
+**Does the cuisine influence the inspection outcome?** There are different types of establishment are placed in the city of Chicago like elsewhere in the world. Is their unique cuisine affecting their sanitary check/inspection result? Are their failures resulted from the same causes or not?  Would food chains be more riskier than local facilities to eat at?
+
+**Is the food safety of an establishment related to its popularity?** With an increasing effect of social media, customers are very keen to comment on their experiences at those establishments. Would it be true to infer that the safety of those places from the customers’ reviews? That question would lead us also to investigate whether an inspection failure occurs after a negative review given to an establishment or an inspection resulted by a customer complaint more causes a failure over a regular inspection?
+
+**How does the performance of establishments evolve through time as a function of its inspections results?** Facilities are subject to inspection on a regular based in terms of satisfying some health and sanitary criteria which they have to satisfy before the inspection, actually all the time. As many other triggers, socioeconomic factors might also let a facility fail on its inspection. In that sense, we will examine the highly risky facilities by regarding food safety on the map of Chicago and analyse its relation with those factors if exists.
 
 ## Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
