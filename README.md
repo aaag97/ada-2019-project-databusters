@@ -9,11 +9,11 @@ We will also try to link high/ low risk areas of contracting food-borne illnesse
 
 ## Research questions
 
-- **Is the food safety of an establishment related to its popularity?** With an increasing effect of social media, customers are very keen to comment on their experiences at those establishments. Would it be true to infer that the safety of those places from the customers’ reviews? That question would lead us also to investigate whether an inspection failure occurs after a negative review given to an establishment or an inspection resulted by a customer complaint more causes a failure over a regular inspection?
+- **Is the food safety of an establishment related to its popularity?** With an increasing effect of social media, customers are very keen to comment on their experiences at those establishments. Would it be true to infer the safety of those places from the customers’ reviews? That question would lead us to also investigate whether an inspection failure occurs after a negative review is given to an establishment and whether an inspection caused by a customer complaint is more likely to result in a failure over a regular inspection?
 
-- **Does the cuisine influence the inspection outcome?** There are different types of establishments that are placed in the city of Chicago like elsewhere in the world. Is their unique cuisine affecting their sanitary check/inspection result? Are their failures resulted from the same causes or not?  Would food chains be more riskier than local facilities to eat at?
+- **Does the cuisine influence the inspection outcome?** There are different types of establishments that are placed in the city of Chicago like elsewhere in the world. Is their unique cuisine affecting their sanitary check/inspection result? Are their failures resulted from the same causes or not?  Would food chains be riskier to eat at compared to local facilities?
 
-- **How does the performance of establishments evolve through time as a function of its inspections results?** Facilities are subject to inspection on a regular basis in terms of satisfying some health and sanitary criteria which they have to satisfy before the inspection, actually all the time. As many other triggers, socioeconomic factors might also be a factor of failure on an inspection. In that sense, we will examine the highly risky facilities by regarding food safety on the map of Chicago and analyse its relation with those factors if exists.
+- **How does the performance of establishments evolve through time as a function of its inspections results?** Facilities are subject to inspection on a regular basis in terms of some health and sanitary criteria. We will examine how the inspection results vary depending on previous results. As many other triggers, socioeconomic factors might also be a factor of failure on an inspection. In that sense, we will examine the highly risky facilities by observing a map showcasing the food safety levels in Chicago and analyzing assessing a possible relationship between those levels and the previously states factors.
 
 ## Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
@@ -23,26 +23,26 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 - Note about 7/1/2018 change to food inspection procedures that affects the data in this dataset: http://bit.ly/2yWd2JB
 
 ## A list of internal milestones up until project milestone 2
-1. Clean primary dataset 
+1. Clean primary dataset (November 7th)
  
     * Explore features
     * Drop features which are irrelevant to our research questions
     * Plot different features at year level and at facility name level
     * Detect and drop outliers through plotted figures
 
-1. Come up with a data story
+1. Come up with a data story (November 7th)
 
     * Cluster thematically close questions together
     * Organize the structure of the data story from the different cluster of questions obtained, making sure it starts with questions regarding the primary dataset
 
-1. Answer research questions on primary dataset
+1. Answer research questions on primary dataset (November 14th)
 
     * Divide questions among group members
     * Conduct the primary dataset analysis to answer the research questions which don't involve secondary datasets
     * Come up with insightful responses to questions
     * Peer review after all the group members have finished writing their responses
 
-1. Combine primary dataset with secondary datasets
+1. Combine primary dataset with secondary datasets (November 21st)
 
     * Finalize list of secondary datasets to use to answer research questions
     * Divide secondary dataset management among group members
@@ -51,7 +51,7 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
     * Conduct further data analysis to answer remaining research questions
     * Peer review after all group members have finished writing responses.
 
-1. Putting it all together
+1. Putting it all together (December 10th)
 
     * Finalize structure of data story after gathering all responses found
     * Divide tasks for data story construction among group members
