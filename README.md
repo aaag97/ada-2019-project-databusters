@@ -1,4 +1,4 @@
-# Where would you Chica-Go to Eat?
+# Would you Chica-Go to Eat?
 
 ## Abstract
 Chicago is home to 16,000 food establishments like restaurants, grocery stores, bakeries, hospitals, day care facilities, shelters, schools and more, all of which are subject to recurring inspections by The Food Protection Division of the Chicago Department of Public Health.
@@ -88,7 +88,7 @@ For enriching our resources, we will additionally do webscraping on `yelp.com` a
 * Is there any resource for datasets or API you could recommend for the following? We have found some datasets for them but were wondering if you would like to suggest something better/more reliable.
     * Healthcare data (in particular food poisoning data in the USA)
     * Popularity and cost of restaurants in Chicago (more generally in the USA)
-    
+* Although we searched a lot and could not find a dataset related with foodborne illnesses in Chicago, if you have or can access to a dataset like that, is it possible to support us?
     
 ## Resources
 [1] https://www.chicagotribune.com/business/ct-biz-mcdonalds-cyclospora-outbreak-20180719-story.html <br/>
