@@ -16,6 +16,7 @@ We will also try to link high/ low risk areas of contracting food-borne illnesse
 - **How does the performance of establishments evolve through time as a function of inspections results?** Facilities are subject to inspection on a regular basis in terms of some health and sanitary criteria. We will examine how the inspection results vary depending on previous results. As many other triggers, socioeconomic factors might also influence the outcome of an inspection. In that sense, we will examine the highly risky facilities by observing a map showcasing the food safety levels in Chicago and analyzing assessing a possible relationship between those levels and the previously stated factors.
 
 ## Datasets
+List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 #### **Main dataset of Inspections of restaurants and other food establishments in Chicago**
 We chose the `Chicago Food Inspections` dataset from the sugested datasets which contains information from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for our project and it can be downloaded either as _socrata_metadata.json (9.14 KB)_ or _food-inspections.csv (219.71 MB)_ from [1](https://www.kaggle.com/chicago/chicago-food-inspections) (Also check for the main source dataset on Chicago Data Portal [2] 
