@@ -1,4 +1,4 @@
-# How to survive eating out in Chicago
+# Where would you Chica-Go to Eat?
 
 ## Abstract
 Chicago is home to 16,000 food establishments like restaurants, grocery stores, bakeries, hospitals, day care facilities, shelters, schools and more, all of which are subject to recurring inspections by The Food Protection Division of the Chicago Department of Public Health.
@@ -46,6 +46,7 @@ For enriching our resources, we will additionally do webscraping on `yelp.com` a
 1. Clean primary dataset (November 7th)
  
     * Explore features
+    * Do webscraping to gather reviews on foodborne illnesses
     * Drop features which are irrelevant to our research questions
     * Plot different features at year level and at facility name level
     * Detect and drop outliers through plotted figures
@@ -90,9 +91,9 @@ For enriching our resources, we will additionally do webscraping on `yelp.com` a
     
     
 ## Resources
-[1] https://www.chicagotribune.com/business/ct-biz-mcdonalds-cyclospora-outbreak-20180719-story.html
-[2] https://www.kaggle.com/chicago/chicago-food-inspections
-[3] https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb
-[4] https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF
-[5] https://www.yelp.com/dataset
+[1] https://www.chicagotribune.com/business/ct-biz-mcdonalds-cyclospora-outbreak-20180719-story.html <br/>
+[2] https://www.kaggle.com/chicago/chicago-food-inspections <br/>
+[3] https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb <br/>
+[4] https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF <br/>
+[5] https://www.yelp.com/dataset <br/>
 [6] https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
