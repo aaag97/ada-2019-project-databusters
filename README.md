@@ -18,8 +18,8 @@ We will also try to link high/ low risk areas of contracting food-borne illnesse
 ## Datasets
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
-**Main dataset of Inspections of restaurants and other food establishments in Chicago**
-We chose the `Chicago Food Inspections` dataset from given datasets which contains information from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for our project and it can be downloaded either as _socrata_metadata.json (9.14 KB)_ or _food-inspections.csv (219.71 MB)_ from [1](https://www.kaggle.com/chicago/chicago-food-inspections) (Also check for the main source dataset on Chicago Data Portal [2] <iframe src='https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb', width=800, height=600>. 
+#### **Main dataset of Inspections of restaurants and other food establishments in Chicago**
+We chose the `Chicago Food Inspections` dataset from given datasets which contains information from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for our project and it can be downloaded either as _socrata_metadata.json (9.14 KB)_ or _food-inspections.csv (219.71 MB)_ from [1](https://www.kaggle.com/chicago/chicago-food-inspections) (Also check for the main source dataset on Chicago Data Portal [2] ![Source data](<iframe src='https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb', width=800, height=600>). 
 
 We will also enrich this dataset with some other datasets:  
 
