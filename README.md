@@ -20,7 +20,7 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
 #### **Main dataset of Inspections of restaurants and other food establishments in Chicago**
 We chose the `Chicago Food Inspections` dataset from given datasets which contains information from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for our project and it can be downloaded either as _socrata_metadata.json (9.14 KB)_ or _food-inspections.csv (219.71 MB)_ from [1](https://www.kaggle.com/chicago/chicago-food-inspections) (Also check for the main source dataset on Chicago Data Portal [2] 
-![Source data](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb). 
+[![Visit the website](https://github.com/aaag97/ada-2019-project-databusters/blob/master/chicagodp.png)](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb).
 
 We will also enrich this dataset with some other datasets:  
 
