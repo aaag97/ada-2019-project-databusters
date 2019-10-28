@@ -1,4 +1,4 @@
-# Surviving Eating Out In Chicago
+# How to Survive Eating Out in Chicago
 
 
 ## Abstract
