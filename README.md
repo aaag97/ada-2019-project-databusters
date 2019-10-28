@@ -10,17 +10,17 @@ We will also try to link high/low risk areas of contracting food-borne illnesses
 
 ## Research questions
 
-#### - How does the performance of establishments evolve through time as a function of its inspections results?
+#### How does the performance of establishments evolve through time as a function of its inspections results?
 
-#### - Does the type of a given facility influence the outcome of its inspection?
+#### Does the type of a given facility influence the outcome of its inspection?
 Moreover, how homogenous is the sanitary status of facilities which belong to a given type? Also, what are the most common violations? Are there violations which typically happen in most facilities which fail inspections? Or do they depend on another factor such as establishment type or location?
 
-#### - Is the food safety of an establishment related to its popularity?
+#### Is the food safety of an establishment related to its popularity?
 With the increasing popularity of social media, customers are very keen to comment on their experiences at those establishments. Would it be possible to infer the safety status of those facilities from the customers’ reviews? That question leads us hence to investigate whether an inspection failure is more likely to occur for an establishment which has below-average reviews. Moreover, we could ask whether an inspection caused by a customer complaint is more likely to result in a failure than a regular inspection. Finally, in terms of restaurants, chains (e.g. McDonald's) are often considered more popular than local restaurants. We encountered some news about the _McDonald's Cyclospora Outbreak_ [1] (https://www.chicagotribune.com/business/ct-biz-mcdonalds-cyclospora-outbreak-20180719-story.html). This lead us to think about whether chains might be riskier to eat at compared to local facilities? Or are they more likely to get complaints which increases the frequency and the severity of their inspections?
 
-#### - Does the cuisine of a restaurant influence the inspection outcome?
+#### Does the cuisine of a restaurant influence the inspection outcome?
 
-#### - Is there a relationship between the inspection outcome of a facility and its location?
+#### Is there a relationship between the inspection outcome of a facility and its location?
 Does the area of a given facility influence its inspection results? For example, typically, big cities are comprised of "bad" neighborhoods. If a restaurant is in such a neighborhood, is it more likely to fail its inspection? Another way to evaluate this is to compare the latest inspection outcomes on a map of Chicago with a map specifying the food safety levels in the city.
 
 ## Datasets
