@@ -23,7 +23,7 @@ We will also try to link high/low risk areas of contracting food-borne illnesses
 #### Is there a relationship between the inspection outcome of a facility and its location?
 >Does the area of a given facility influence its inspection results? For example, typically, big cities are comprised of "bad" neighborhoods. If a restaurant is in such a neighborhood, is it more likely to fail its inspection? Another way to evaluate this is to compare the latest inspection outcomes on a map of Chicago with a map specifying the food safety levels in the city.
 
-#### What customers say about a restaurant is also the same for an inspection?
+#### What customers say about a restaurant is also the same for an inspection result?
 >By using Yelp dataset, we will investigate if there exists a correlation between the reviews (in terms of sentiment analysis) and inspection results. 
 
 
