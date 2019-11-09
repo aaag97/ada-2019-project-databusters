@@ -1,0 +1,42 @@
+-predicting which food establishments are at most risk for the types of violations most likely to spread food-borne illness
+https://chicago.github.io/food-inspections-evaluation/
+https://github.com/Chicago/food-inspections-evaluation
+https://github.com/nd1/DC_RestaurantViolationForecasting
+->https://github.com/angelok1/chicago-inspections-dse
+
+-Do Chicago restaurants that fail city inspections have lower Yelp ratings?
+https://github.com/jpvelez/restaurant_inspection_analysis
+
+-areas that have facilities serving food to children and have failed inspections in the past) on the Chicago map to dispatch inspectors to.
+https://github.com/EmmaMyers/chicago-food-inspections
+
+-reaally nice 
+https://github.com/Fggw/foodinspections
+https://fggw.github.io/foodinspections/
+
+-current project
+https://github.com/njomeau/Adata-project2
+
+Proposition: FOOD DESERTS: 
+	⁃	Can we see them where there are no supermarkets basically?
+	⁃	A lot of researches show that food access inequality is responsible for many community diseases. Are the restaurants present in those neighborhoods also riskier to eat at?
+	⁃	Can we see that those same places have higher rates of diseases?
+
+
+-All told, contaminated food causes 48 million illnesses, 128,000 hospitalizations, and 3,000 deaths each year in the United States.
+https://press.uchicago.edu/ucp/books/book/chicago/O/bo35855002.html
+
+-Food deserts correspond to disease areas:
+https://www.chicagoreporter.com/food-deserts-persist-in-chicago-despite-more-supermarkets/
+
+-Chicago’s segregation is certainly legendary, with the North and South sides divided by class and race. To keep it stereotypically simple: The North Side is white, the South Side is black. The West Side rarely gets acknowledged. There’s less new construction on the South Side, and even when a new restaurant opens, often it won’t receive as much coverage. 
+https://chicago.eater.com/2018/12/13/18138387/chicago-magazine-john-kessler-food-scene-racism-immigration-food
+
+-At the start of this project, it did not take long to realize that many Chicago neighborhoods are considered food deserts because of the difficulty residents of these areas have in accessing fresh, nutritious foods, in particular fruits and vegetables. Of note to this Committee is the fact that these food desert neighborhoods are almost exclusively in African American neighborhoods. Therefore, the problem of food deserts in Chicago is not simply a public health issue, but an urgent civil rights issue. 
+https://www.usccr.gov/pubs/docs/IL-FoodDeserts-2011.pdf
+PAGE 3 & 4!!!!
+
+PEOPLE TALK ABOUT POISONING
+https://iwaspoisoned.com/location/united-states/illinois/chicago#botpress
+
+https://chicago.github.io/food-inspections-evaluation/

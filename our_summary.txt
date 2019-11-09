@@ -1,5 +1,5 @@
-- Data cleaning(
-	-> drop columns: city always chicago, state always IL, location is just repetition of latitude and longitude, three last columns are empty)
+- Data cleaning
+	-> drop columns: city always chicago, state always IL, location is just repetition of latitude and longitude, three last columns are empty
 	-> drop duplicates (The dataset source explicitly says there are)
 	-> check for outliers
 
