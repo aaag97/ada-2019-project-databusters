@@ -26,16 +26,6 @@ We will also try to link high/low risk areas of contracting food-borne illnesses
 #### What customers say about a restaurant is also the same for an inspection result?
 >By using Yelp dataset, we will investigate if there exists a correlation between the reviews (in terms of sentiment analysis) and inspection results. 
 
-
-## APIs
-
-#### Yelp Fusion
-Yelp is a business directory service and crowd-sourced review forum. 
-Alongside our main dataset, we will be using the Yelp Fusion API, [5](https://www.yelp.com/developers/documentation/v3). This is a collection of endpoints developers can reach to get information on establishment. It has been made available to use for personal, educational, and academic purposes. To support our research questions, we will be using:
-
-- **Business Match Endpoint**: Lets us match business data from other sources against businesses on Yelp, based on provided business information. 
-- **Business Details**: Given the id of any establishment obtained from the Business Match Endpoint, this returns details like price range, rating, and cuisine. 
-
 ## Datasets
 
 #### Chicago Food Inspections Dataset
@@ -46,6 +36,16 @@ As we mentioned in our last research question, we need a Socioeconomic Indicator
 
 #### Foodborne Illnesses Dataset
 To enrich our resources, we will additionally be doing some webscraping on [Yelp](https://www.yelp.com) and [iwaspoisoned.com](iwaspoisoned.com) to prepare a dataset for food related illnesses by searching for users' complaints.
+
+## APIs
+
+#### Yelp Fusion
+Yelp is a business directory service and crowd-sourced review forum. 
+Alongside our main dataset, we will be using the Yelp Fusion API, [5](https://www.yelp.com/developers/documentation/v3). This is a collection of endpoints developers can reach to get information on establishment. It has been made available to use for personal, educational, and academic purposes. To support our research questions, we will be using:
+
+- **Business Match Endpoint**: Lets us match business data from other sources against businesses on Yelp, based on provided business information. 
+- **Business Details**: Given the id of any establishment obtained from the Business Match Endpoint, this returns details like price range, rating, and cuisine. 
+
 
 ## A list of internal milestones up until project milestone 2
 #### Clean primary dataset (November 7th)
