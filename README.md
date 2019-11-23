@@ -27,10 +27,7 @@ We will also try to link high/low risk areas of contracting food-borne illnesses
 >By using Yelp dataset, we will investigate if there exists a correlation between the reviews (in terms of sentiment analysis) and inspection results. 
 
 
-## Datasets
-
-#### Chicago Food Inspections Dataset
-We chose the _Chicago Food Inspections_ dataset from the given datasets. It contains information about food inspections of different establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for the project and it can be downloaded either as a JSON file _socrata\_metadata.json (9.14 KB)_  or a CSV file _food-inspections.csv (219.71 MB)_ from [2](https://www.kaggle.com/chicago/chicago-food-inspections) (In addition to that source, you can check for the main source dataset on Chicago Data Portal [3](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)). More information about the attributes in the Chicago Food Inspections' dataset can be found on [4](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF).
+## APIs
 
 #### Yelp Fusion
 Yelp is a business directory service and crowd-sourced review forum. 
@@ -38,6 +35,11 @@ Alongside our main dataset, we will be using the Yelp Fusion API, [5](https://ww
 
 - **Business Match Endpoint**: Lets us match business data from other sources against businesses on Yelp, based on provided business information. 
 - **Business Details**: Given the id of any establishment obtained from the Business Match Endpoint, this returns details like price range, rating, and cuisine. 
+
+## Datasets
+
+#### Chicago Food Inspections Dataset
+We chose the _Chicago Food Inspections_ dataset from the given datasets. It contains information about food inspections of different establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for the project and it can be downloaded either as a JSON file _socrata\_metadata.json (9.14 KB)_  or a CSV file _food-inspections.csv (219.71 MB)_ from [2](https://www.kaggle.com/chicago/chicago-food-inspections) (In addition to that source, you can check for the main source dataset on Chicago Data Portal [3](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)). More information about the attributes in the Chicago Food Inspections' dataset can be found on [4](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF).
 
 #### Socioeconomic Indicator Dataset 
 As we mentioned in our last research question, we need a Socioeconomic Indicator Dataset in order to make an inference about the influence of the location of a facility on its food inspection outcomes in Chicago. To that end, we will be using _census-data-selected-socioeconomic-indicators-in-chicago-2008-2012.csv (364 KB)_ [6](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2). It contains six socioeconomic indicators of public health quality and a hardship index, for each Chicago community area, for the years 2008-2012.
@@ -98,5 +100,5 @@ To enrich our resources, we will additionally be doing some webscraping on [Yelp
 [2] https://www.kaggle.com/chicago/chicago-food-inspections <br/>
 [3] https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb <br/>
 [4] https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF <br/>
-[5] https://www.yelp.com/dataset <br/>
+[5] https://www.yelp.com/developers/documentation/v3 <br/>
 [6] https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
