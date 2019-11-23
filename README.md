@@ -27,8 +27,13 @@ This represent the conclusion to our findings. The aim is to design an interacti
 #### Chicago Food Inspections Dataset
 We chose the _Chicago Food Inspections_ dataset from the given datasets. It contains information about food inspections of different establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for the project and it can be downloaded either as a JSON file _socrata\_metadata.json (9.14 KB)_  or a CSV file _food-inspections.csv (219.71 MB)_ from [4](https://www.kaggle.com/chicago/chicago-food-inspections) (In addition to that source, you can check for the main source dataset on Chicago Data Portal [5](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)). More information about the attributes in the Chicago Food Inspections' dataset can be found on [6](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF).
 
-#### Socioeconomic Indicator Dataset 
-As we mentioned in our last research question, we need a Socioeconomic Indicator Dataset in order to make an inference about the influence of the location of a facility on its food inspection outcomes in Chicago. To that end, we will be using _census-data-selected-socioeconomic-indicators-in-chicago-2008-2012.csv (364 KB)_ [7](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2). It contains six socioeconomic indicators of public health quality and a hardship index, for each Chicago community area, for the years 2008-2012.
+#### Socioeconomic & Health related datasets
+In order to answer our second research question, we need a socioeconomic as well as health related indicator datasets.To that end, we will be using selected public health indicators for the different community areas. The dataset is available under this [link](https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu)and contains measures related to infectious disease, lead poisoning, and economic status.
+We will also need the total population by community area which we will merge with the latter. [source](https://www.chicagohealthatlas.org/indicators/total-population)
+
+#### Community Areas boundaries
+We need the community areas boundaries dataset for visualization purposes as well as to fill in missing values in our main dataset. The dataset is provided by the City of Chicago under this [link](https://www.chicago.gov/city/en/depts/doit/dataset/boundaries_-_communityareas.html) and is provided under different extensions. We will be using the .geojson file.
+
 
 ## APIs
 
