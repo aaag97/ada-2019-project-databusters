@@ -32,17 +32,12 @@ We will also try to link high/low risk areas of contracting food-borne illnesses
 #### Chicago Food Inspections Dataset
 We chose the _Chicago Food Inspections_ dataset from the given datasets. It contains information about food inspections of different establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for the project and it can be downloaded either as a JSON file _socrata\_metadata.json (9.14 KB)_  or a CSV file _food-inspections.csv (219.71 MB)_ from [2](https://www.kaggle.com/chicago/chicago-food-inspections) (In addition to that source, you can check for the main source dataset on Chicago Data Portal [3](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)). More information about the attributes in the Chicago Food Inspections' dataset can be found on [4](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF).
 
-#### Yelp Open Dataset
+#### Yelp Fusion
 Yelp is a business directory service and crowd-sourced review forum. 
-Alongside our main dataset, we will be using the _Yelp Open_ dataset, [5](https://www.yelp.com/dataset). This is a dataset of a subset of its businesses, reviews, and user data. It has been made available to use for personal, educational, and academic purposes. We will be using it (for instance, clients' satisfaction in different food establishments in Chicago) to support our research questions. 
-It consists of:
+Alongside our main dataset, we will be using the Yelp Fusion API, [5](https://www.yelp.com/developers/documentation/v3). This is a collection of endpoints developers can reach to get information on establishment. It has been made available to use for personal, educational, and academic purposes. To support our research questions, we will be using:
 
-- **business.json**: Contains business data including location data, attributes, and categories.
-- **review.json**: Contains full review text data including the user_id that wrote the review and the business_id the review is written for.
-- **user.json**: User data including the user's friend mapping and all the metadata associated with the user.
-- **checkin.json**: Checkins on a business.
-- **tip.json**: Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.
-- **photo.json**: Contains photo data including the caption and classification (one of "food", "drink", "menu", "inside" or "outside").
+- **Business Match Endpoint**: Lets us match business data from other sources against businesses on Yelp, based on provided business information. 
+- **Business Details**: Given the id of any establishment obtained from the Business Match Endpoint, this returns details like price range, rating, and cuisine. 
 
 #### Socioeconomic Indicator Dataset 
 As we mentioned in our last research question, we need a Socioeconomic Indicator Dataset in order to make an inference about the influence of the location of a facility on its food inspection outcomes in Chicago. To that end, we will be using _census-data-selected-socioeconomic-indicators-in-chicago-2008-2012.csv (364 KB)_ [6](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2). It contains six socioeconomic indicators of public health quality and a hardship index, for each Chicago community area, for the years 2008-2012.
