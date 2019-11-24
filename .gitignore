@@ -3,3 +3,15 @@
 *.sublime-project
 *.DS_Store
 datasets/
+
+#Yelp stuff
+yelp_5000_10000.ipynb
+yelp_10000_15000.ipynb
+yelp_15000_20000.ipynb
+yelp_20000_25000.ipynb
+yelp_25000_30000.ipynb
+yelp_30000_end.ipynb
+Yelp_API_business.ipynb
+details_0_5000.pickle
+yelp_match_0_4999.pickle
+helper_requests.py
