@@ -11,7 +11,8 @@ yelp_15000_20000.ipynb
 yelp_20000_25000.ipynb
 yelp_25000_30000.ipynb
 yelp_30000_end.ipynb
+yelp_match_30000_end.pickle
+ yelp_match_10000_14999.pickle
+yelp_match_20000_24999.pickle
 Yelp_API_business.ipynb
-details_0_5000.pickle
-yelp_match_0_4999.pickle
 helper_requests.py
