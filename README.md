@@ -20,7 +20,7 @@ Many articles seem to point to the fact that different areas in Chicago do not h
 
 ### III. The survival guide: a personalized guide for eating out safely
 
-This represent the conclusion to our findings. The aim is to design an interactive interface where the user can enter some data about themself such as allergies and they could get the safest establishments for them to eat at.
+This represent the conclusion to our findings. The aim is to display an interactive map with widgets where the user can choose parameters as: "Allergies friendly restaurants", "No food chains" and get restaurants displayed along with their safety scores.
 
 ## Datasets
 
