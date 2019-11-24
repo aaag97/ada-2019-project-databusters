@@ -35,6 +35,8 @@ We will also need the total population by community area which we will merge wit
 #### Community Areas boundaries
 We need the community areas boundaries dataset for visualization purposes as well as to fill in missing values in our main dataset. The dataset is provided by the City of Chicago under this [link](https://www.chicago.gov/city/en/depts/doit/dataset/boundaries_-_communityareas.html) and is provided under different extensions. We will be using the .geojson file.
 
+#### Fast Food Restaurants Across America
+In order to work on chains specifically, we use [this dataset](https://www.kaggle.com/datafiniti/fast-food-restaurants) to get a list of chains that we join with our inspections dataset.
 
 ## APIs
 
@@ -92,3 +94,4 @@ Alongside our main dataset, we will be using the Yelp Fusion API, [8](https://ww
 [6] https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF <br/>
 [7] https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2 <br/>
 [8] https://www.yelp.com/developers/documentation/v3 <br/>
+[9] https://www.kaggle.com/datafiniti/fast-food-restaurants <br/>
