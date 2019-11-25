@@ -5,6 +5,8 @@
 datasets/
 
 #Yelp stuff
+Yelp_API_business.ipynb
+Yelp_API_business-clean.ipynb
 yelp_5000_10000.ipynb
 yelp_10000_15000.ipynb
 yelp_15000_20000.ipynb
@@ -12,7 +14,9 @@ yelp_20000_25000.ipynb
 yelp_25000_30000.ipynb
 yelp_30000_end.ipynb
 yelp_match_30000_end.pickle
- yelp_match_10000_14999.pickle
+yelp_match_5000_9999.pickle
+yelp_match_10000_14999.pickle
 yelp_match_20000_24999.pickle
+yelp_match_25000_29999.pickle
 Yelp_API_business.ipynb
 helper_requests.py
