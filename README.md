@@ -1,12 +1,13 @@
 # How to Survive Eating Out in Chicago
 
+**All progress up to milestone 2 is in the DataCleaningAndExploratoryAnalysis.ipynb notebook.**
 
 ## Abstract
 Chicago is home to 16,000 food establishments like restaurants, grocery stores, bakeries, hospitals, day care facilities, shelters, schools and more, all of which are subject to recurring inspections by The Food Protection Division of the Chicago Department of Public Health.
 
-Our goal for this project is to promote public health in areas of food safety and sanitation and prevent food-borne illness by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we will compute using the information from inspections of food establishments in Chicago.
+We will try to link high/low risk areas of contracting food-borne illnesses and the socioeconomic indicators of the different community areas of the city of Chicago with the inspection results to see if there are any patterns. Furthermore, we will investigate what the Chicago Food Desert is, seeing if our dataset could support its existence.
 
-We will also try to link high/low risk areas of contracting food-borne illnesses with the socioeconomic indicators of the different community areas of the city of Chicago to see if there are any patterns, our end goal being to showcase an example of the use of "data science for social good”.
+Our ultimate aim for this project is to promote public health in areas of food safety and sanitation and prevent food-borne illness by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we will compute using the information from inspections of food establishments in Chicago. All of this is compatible with our end goal of showcasing an example of the use of "data science for social good”.
 
 ## Research questions
 
@@ -46,7 +47,6 @@ Alongside our main dataset, we will be using the Yelp Fusion API, [8](https://ww
 
 - **Business Match Endpoint**: Lets us match business data from other sources against businesses on Yelp, based on provided business information. 
 - **Business Details**: Given the id of any establishment obtained from the Business Match Endpoint, this returns details like price range, rating, and cuisine. 
-
 
 ## A list of internal milestones up until project milestone 2
 
