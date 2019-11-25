@@ -8,10 +8,10 @@
 
 In this project we use data from the Chicago Department of Public Health breaking down inspections of restaurants and other food establishments, with the goal of trying to better understand which factors are most at stake when talking about food safety.
 
-In the process, we will also use socio-economic indicators of Chicago community areas in order to see if eating safely is equally accessible to every class or if our dataset supports the existence of "food deserts".
+In the process, we will also use socio-economic indicators of Chicago community areas in order to see if eating safely is equally accessible to every class and if our dataset supports the existence of "food deserts".
 [4](https://www.chicagoreporter.com/food-deserts-persist-in-chicago-despite-more-supermarkets/)
 
-Our ultimate aim will be to promote public health by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we will compute using the information from inspections as well as other metrics that will prove useful during analysis. All of this is compatible with our end goal of showcasing an example of the use of "data science for social good”.
+Our ultimate aim will be to promote public health by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we will compute using the information from inspections as well as other metrics that will prove useful during analysis. All of this is will showcase an example of the use of "data science for social good”.
 
 ## Research questions
 
