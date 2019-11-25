@@ -3,11 +3,15 @@
 **All progress up to milestone 2 is in the DataCleaningAndExploratoryAnalysis.ipynb notebook.**
 
 ## Abstract
-Chicago is home to 16,000 food establishments like restaurants, grocery stores, bakeries, hospitals, day care facilities, shelters, schools and more, all of which are subject to recurring inspections by The Food Protection Division of the Chicago Department of Public Health.
+"Foodborne diseases are a major cause of illness and death in the United States." The US Centers for Disease Control and Prevention estimate that each year, there are 9.4 million reported cases of foodborne illness, resulting in 55,961 hospitalizations and 1,351 deaths.
+[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204615/#R1)
 
-We will try to link high/low risk areas of contracting food-borne illnesses and the socioeconomic indicators of the different community areas of the city of Chicago with the inspection results to see if there are any patterns. Furthermore, we will investigate what the Chicago Food Desert is, seeing if our dataset could support its existence.
+In this project we use data from the Chicago Department of Public Health breaking down inspections of restaurants and other food establishments, with the goal of trying to better understand which factors are most at stake when talking about food safety.
 
-Our ultimate aim for this project is to promote public health in areas of food safety and sanitation and prevent food-borne illness by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we will compute using the information from inspections of food establishments in Chicago. All of this is compatible with our end goal of showcasing an example of the use of "data science for social good”.
+In the process, we will also use socio-economic indicators of Chicago community areas in order to see if eating safely is equally accessible to every class or if our dataset supports the existence of "food deserts".
+[4](https://www.chicagoreporter.com/food-deserts-persist-in-chicago-despite-more-supermarkets/)
+
+Our ultimate aim will be to promote public health by providing a reliable recommendation system for eating out in Chicago, based on a "safety score" that we will compute using the information from inspections as well as other metrics that will prove useful during analysis. All of this is compatible with our end goal of showcasing an example of the use of "data science for social good”.
 
 ## Research questions
 
@@ -17,7 +21,7 @@ Our main dataset as well as our secondary datasets give us many attributes for e
 
 ### II. Chicago Food Deserts: an indicator of social segreggation?
 
-Many articles seem to point to the fact that different areas in Chicago do not have equal access to healthy food [2](https://chicago.eater.com/2018/12/13/18138387/chicago-magazine-john-kessler-food-scene-racism-immigration-food) [3](https://www.chicagoreporter.com/food-deserts-persist-in-chicago-despite-more-supermarkets/). These articles claim that this is due to the persistence of racial segreggation. Our aim is to inspect this further and see whether our dataset could help in seeing if this is true.
+Many articles seem to point to the fact that different areas in Chicago do not have equal access to healthy food [3](https://chicago.eater.com/2018/12/13/18138387/chicago-magazine-john-kessler-food-scene-racism-immigration-food) [4](https://www.chicagoreporter.com/food-deserts-persist-in-chicago-despite-more-supermarkets/). These articles claim that this is due to the persistence of racial segreggation. Our aim is to inspect this further and see whether our dataset could help in seeing if this is true.
 
 ### III. The survival guide: a personalized guide for eating out safely
 
@@ -26,7 +30,7 @@ This represent the conclusion to our findings. The aim is to display an interact
 ## Datasets
 
 #### Chicago Food Inspections Dataset
-We chose the _Chicago Food Inspections_ dataset from the given datasets. It contains information about food inspections of different establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for the project and it can be downloaded either as a JSON file _socrata\_metadata.json (9.14 KB)_  or a CSV file _food-inspections.csv (219.71 MB)_ from [4](https://www.kaggle.com/chicago/chicago-food-inspections) (In addition to that source, you can check for the main source dataset on Chicago Data Portal [5](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)). More information about the attributes in the Chicago Food Inspections' dataset can be found on [6](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF).
+We chose the _Chicago Food Inspections_ dataset from the given datasets. It contains information about food inspections of different establishments in Chicago from January 1, 2010 to the present. We will use it as our main dataset for the project and it can be downloaded either as a JSON file _socrata\_metadata.json (9.14 KB)_  or a CSV file _food-inspections.csv (219.71 MB)_ from [5](https://www.kaggle.com/chicago/chicago-food-inspections) (In addition to that source, you can check for the main source dataset on Chicago Data Portal [6](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb)). More information about the attributes in the Chicago Food Inspections' dataset can be found on [7](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF).
 
 #### Socioeconomic & Health related datasets
 In order to answer our second research question, we need a socioeconomic as well as health related indicator datasets.To that end, we will be using selected public health indicators for the different community areas. The dataset is available under this [link](https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu) and contains measures related to infectious disease, lead poisoning, and economic status.
@@ -86,12 +90,16 @@ Alongside our main dataset, we will be using the Yelp Fusion API, [8](https://ww
 * Test and finalize data story
     
 ## Resources
-[1] https://www.chicagotribune.com/business/ct-biz-mcdonalds-cyclospora-outbreak-20180719-story.html <br/>
-[2] https://chicago.eater.com/2018/12/13/18138387/chicago-magazine-john-kessler-food-scene-racism-immigration-food <br/>
-[3] https://www.chicagoreporter.com/food-deserts-persist-in-chicago-despite-more-supermarkets/ <br/>
-[4] https://www.kaggle.com/chicago/chicago-food-inspections <br/>
-[5] https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb <br/>
-[6] https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF <br/>
-[7] https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2 <br/>
-[8] https://www.yelp.com/developers/documentation/v3 <br/>
-[9] https://www.kaggle.com/datafiniti/fast-food-restaurants <br/>
+[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204615/#R1
+[2] https://www.chicagotribune.com/business/ct-biz-mcdonalds-cyclospora-outbreak-20180719-story.html <br/>
+[3] https://chicago.eater.com/2018/12/13/18138387/chicago-magazine-john-kessler-food-scene-racism-immigration-food <br/>
+[4] https://www.chicagoreporter.com/food-deserts-persist-in-chicago-despite-more-supermarkets/ <br/>
+[5] https://www.kaggle.com/chicago/chicago-food-inspections <br/>
+[6] https://data.cityofchicago.org/Health-Human-Services/Food-Inspections-Dashboard/2bnm-jnvb <br/>
+[7] https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF <br/>
+[8] https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu <br/>
+[9] https://www.yelp.com/developers/documentation/v3 <br/>
+[10] https://www.kaggle.com/datafiniti/fast-food-restaurants <br/>
+[11] https://www.chicago.gov/city/en/depts/doit/dataset/boundaries_-_communityareas.html <br/>
+[12] https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu <br/>
+[13] https://www.chicagohealthatlas.org/indicators/total-population <br/>
