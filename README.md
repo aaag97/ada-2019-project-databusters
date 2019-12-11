@@ -43,6 +43,11 @@ We need the community areas boundaries dataset for visualization purposes as wel
 #### Fast Food Restaurants Across America
 In order to work on chains specifically, we use [this dataset](https://www.kaggle.com/datafiniti/fast-food-restaurants) to get a list of chains that we join with our inspections dataset.
 
+#### Ethnicities by community area
+The count of people by different ethnicities present in the city of Chicago is available under this [link](https://www.chicagohealthatlas.org/indicators/non-hispanic-african-american-or-black).
+
+For each ethnicity, we download the corresponding excel file and then merge those in a Pandas dataframe.
+
 ## APIs
 
 #### Yelp Fusion
