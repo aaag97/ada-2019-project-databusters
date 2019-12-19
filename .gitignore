@@ -4,6 +4,10 @@
 *.DS_Store
 datasets/
 
+#Visualization
+score_pie.py
+score_pie.html
+
 #Yelp stuff
 Yelp_API_business.ipynb
 Yelp_API_business-clean.ipynb
