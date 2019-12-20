@@ -110,7 +110,7 @@ The data story we made can be found [here](https://survive-eating-out-chicago.gi
 * Asli Yörüsün: Data Cleaning, Exploratory Data Analysis, Preparing a Merged dataset of Chicago Food Inspections (CFI) and Yelp, Preparing Features for Research Question 3, final presentation
 
 ## Resources
-[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204615/#R1
+[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204615/#R1 <br/>
 [2] https://www.chicagotribune.com/business/ct-biz-mcdonalds-cyclospora-outbreak-20180719-story.html <br/>
 [3] https://chicago.eater.com/2018/12/13/18138387/chicago-magazine-john-kessler-food-scene-racism-immigration-food <br/>
 [4] https://www.chicagoreporter.com/food-deserts-persist-in-chicago-despite-more-supermarkets/ <br/>
