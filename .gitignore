@@ -3,7 +3,7 @@
 *.sublime-project
 *.DS_Store
 datasets/
-
+pickles/
 #Visualization
 score_pie.py
 score_pie.html

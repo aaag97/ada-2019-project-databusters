@@ -1,6 +1,11 @@
 # How to Survive Eating Out in Chicago
 
 **All progress up to milestone 2 is in the DataCleaningAndExploratoryAnalysis.ipynb notebook.**
+**Research question 1 is done in FeatureEffect.ipynb**
+**Research question 2 is done in Food Deserts.ipynb**
+**Research question 3 is done in FeaturesforSafetyScore.ipynb and then Final Score Calculation.ipynb**
+**Various maps and graphs for the data story were generated in Maps and graphs - data story.ipynb**
+**The merging of the Yelp data set and our main data set is done in YelpCFIchain.ipynb**
 
 ## Abstract
 "Foodborne diseases are a major cause of illness and death in the United States." The US Centers for Disease Control and Prevention estimate that each year, there are 9.4 million reported cases of foodborne illness, resulting in 55,961 hospitalizations and 1,351 deaths.
@@ -94,6 +99,10 @@ Alongside our main dataset, we will be using the Yelp Fusion API, [8](https://ww
 * Fix errors and bugs
 * Test and finalize data story
     
+## Results
+
+The data story we made can be found [here](https://survive-eating-out-chicago.github.io/). The corresponding repository is https://github.com/survive-eating-out-chicago/survive-eating-out-chicago.github.io.
+
 ## Resources
 [1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204615/#R1
 [2] https://www.chicagotribune.com/business/ct-biz-mcdonalds-cyclospora-outbreak-20180719-story.html <br/>
