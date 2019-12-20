@@ -1,0 +1,7 @@
+For the purpose of supporting this claim using data, we look at the community areas by their majority ethnicity. Even though Chicago's population is divided in three almost equal proportions of Black, White and Latino people, with a minority of Asians, we clearly  see a separation between the North and the South, the South being majoritarily Black, the North White and the West Latino. Looking closely you can even notice that a great number of the community areas have very high rates of a single ethnicity.
+
+Moving on to our next question, we wanted to understand the reasons behind the "supermarket shortage phenomenon". Using our data we can see that grocery stores' density is positively correlated to **Population Count** by community area as well as **Per Capita Income**. It is on the other hand negatively correlated to **Below Poverty Level**. These observations make sense if we think about grocery stores wanting to maximize their profit.
+"Grocery stores typically have only 1-2% profit margins, so the difficulties involved in running an urban supermarket are often seen as too costly in an already-risky business." source : https://en.wikipedia.org/wiki/Supermarket_shortage
+
+A solution that the Illinois State could put into practice is the one implemented in the state of New York: "providing zoning and financial incentives to grocery stores in underserved communities"
+source: http://www.nyc.gov/html/misc/pdf/fresh_fact_sheet_eng.pdf
