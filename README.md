@@ -103,11 +103,11 @@ Alongside our main dataset, we will be using the Yelp Fusion API, [8](https://ww
 
 The data story we made can be found [here](https://survive-eating-out-chicago.github.io/). The corresponding repository is https://github.com/survive-eating-out-chicago/survive-eating-out-chicago.github.io.
 
-## Task Division
-* Lilia Ellouz: Web Scraping YELP, YELP Dataset Cleaning, Preparing Data Story
-* Zeineb Sahnoun: Data Cleaning, Exploratory Data Analysis, Reasearch Question 2 
-* André Adel Alphonse Ghattas: Data Cleaning, Exploratory Data Analysis, Data Story, Research Question 1, Safety Score Calculation for Research Question 3
-* Asli Yörüsün: Data Cleaning, Exploratory Data Analysis, Preparing a Merged dataset of CFI and YELP, Preparing Features for Research Question 3 
+## Task Split
+* Lilia Ellouz: Web Scraping Yelp, Yelp Dataset Cleaning, Data Story, Safety Score Calculation for Research Question 3, final presentation
+* Zeineb Sahnoun: Data Cleaning, Exploratory Data Analysis, Research Question 2, final presentation
+* André Adel Alphonse Ghattas: Data Cleaning, Exploratory Data Analysis, Data Story, Research Question 1, Safety Score Calculation for Research Question 3, final presentation
+* Asli Yörüsün: Data Cleaning, Exploratory Data Analysis, Preparing a Merged dataset of Chicago Food Inspections (CFI) and Yelp, Preparing Features for Research Question 3, final presentation
 
 ## Resources
 [1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204615/#R1
