@@ -1,10 +1,10 @@
 # How to Survive Eating Out in Chicago
 
-**All progress up to milestone 2 is in the DataCleaningAndExploratoryAnalysis.ipynb notebook.**
-**Research question 1 is done in FeatureEffect.ipynb**
-**Research question 2 is done in Food Deserts.ipynb**
-**Research question 3 is done in FeaturesforSafetyScore.ipynb and then Final Score Calculation.ipynb**
-**Various maps and graphs for the data story were generated in Maps and graphs - data story.ipynb**
+**All progress up to milestone 2 is in the DataCleaningAndExploratoryAnalysis.ipynb notebook.**<br/>
+**Research question 1 is done in FeatureEffect.ipynb**<br/>
+**Research question 2 is done in Food Deserts.ipynb**<br/>
+**Research question 3 is done in FeaturesforSafetyScore.ipynb and then Final Score Calculation.ipynb**<br/>
+**Various maps and graphs for the data story were generated in Maps and graphs - data story.ipynb**<br/>
 **The merging of the Yelp data set and our main data set is done in YelpCFIchain.ipynb**
 
 ## Abstract
