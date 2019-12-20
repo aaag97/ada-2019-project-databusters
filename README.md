@@ -1,15 +1,10 @@
 # How to Survive Eating Out in Chicago
 
 **All progress up to milestone 2 is in the DataCleaningAndExploratoryAnalysis.ipynb notebook.**
-
 **Research question 1 is done in FeatureEffect.ipynb**
-
 **Research question 2 is done in Food Deserts.ipynb**
-
 **Research question 3 is done in FeaturesforSafetyScore.ipynb and then Final Score Calculation.ipynb**
-
 **Various maps and graphs for the data story were generated in Maps and graphs - data story.ipynb**
-
 **The merging of the Yelp data set and our main data set is done in YelpCFIchain.ipynb**
 
 ## Abstract
@@ -112,7 +107,7 @@ The data story we made can be found [here](https://survive-eating-out-chicago.gi
 * Lilia Ellouz: Web Scraping YELP, YELP Dataset Cleaning, Preparing Data Story
 * Zeineb Sahnoun: Data Cleaning, Exploratory Data Analysis, Reasearch Question 2 
 * André Adel Alphonse Ghattas: Data Cleaning, Exploratory Data Analysis, Data Story, Research Question 1, Safety Score Calculation for Research Question 3
-* Asli Yörüsün: Data Cleaning, Exploratory Data Analysis, Preparing Features for Research Question 3 
+* Asli Yörüsün: Data Cleaning, Exploratory Data Analysis, Preparing a Merged dataset of CFI and YELP, Preparing Features for Research Question 3 
 
 ## Resources
 [1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3204615/#R1
